@@ -1,4 +1,6 @@
-# Prototype:: MainMenu
+<h1 align="center">
+	Prototype:: MainMenu
+</h1>
 A main menu prototype written in C++ using SFML
 
 # 🎴 Preview
@@ -12,7 +14,7 @@ https://github.com/ShamsParvezArka/MainMenu/assets/38325426/d3d9202c-fe87-4c13-8
 ## ⚡ Requirements: Code Inspection
 * Clone this repository
 	```shell
-	git close https://github.com/ShamsParvezArka/MainMenu.git
+	git clone https://github.com/ShamsParvezArka/MainMenu.git
 	```
 * Install [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
 * Launch this solution `MainMenu.sln`
