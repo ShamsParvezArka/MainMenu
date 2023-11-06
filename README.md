@@ -11,7 +11,7 @@ https://github.com/ShamsParvezArka/MainMenu/assets/38325426/d3d9202c-fe87-4c13-8
 * Extract `MainMenu.7z` 
 * Execute `MainMenu.exe`
 
-## ⚡ Requirements: Code Inspection
+## ⚡ Requirements: For Code Inspection
 * Clone this repository
 	```shell
 	git clone https://github.com/ShamsParvezArka/MainMenu.git
