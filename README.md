@@ -2,4 +2,4 @@
 A main menu prototype written in C++ using SFML
 
 # Preview
-![](media/preview.mp4])
+![](media/preview.mp4)
