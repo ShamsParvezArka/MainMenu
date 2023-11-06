@@ -1,5 +1,5 @@
 <h1 align="center">
-	Prototype:: MainMenu
+	Prototype::MainMenu
 </h1>
 A game menu prototype written in C++ using SFML
 
